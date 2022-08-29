@@ -1,6 +1,6 @@
 # Crypto_BigData
 
-# Project authors information
+# Project information
 This is the final project for Big Data Management and Analytics
 Spring 2022
 
